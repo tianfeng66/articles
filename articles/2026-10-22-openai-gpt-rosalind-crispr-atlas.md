@@ -1,8 +1,10 @@
 # OpenAI 用数千个 AI agent，约 32 分钟扫完小鼠全脑 CRISPR 图谱：这对普通人意味着什么？
 
-![OpenAI 官方配图：Scaling Biomedical Discovery](./assets/2026-10-22-openai-gpt-rosalind/openai-hero.png)
+<video controls width="100%" poster="./assets/2026-10-22-openai-gpt-rosalind/openai-hero.png">
+  <source src="./assets/2026-10-22-openai-gpt-rosalind/openai-agents-biological-data-zh.mp4" type="video/mp4">
+</video>
 
-*图：OpenAI 官方博文配图（Scaling Biomedical Discovery）。来源：[OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)*
+*视频：OpenAI 官方介绍片（已烧录中文字幕）。若页面无法内嵌播放，可直接打开 [mp4 文件](./assets/2026-10-22-openai-gpt-rosalind/openai-agents-biological-data-zh.mp4)。来源：[OpenAI 博文](https://openai.com/index/scaling-ai-research-for-complex-biological-data/) / [Vimeo](https://player.vimeo.com/video/1237313920)*
 
 2026 年 10 月 21 日，OpenAI 与 PerturbAI、Scripps Research 合作发布一项实验：用由 GPT‑Rosalind 驱动的**数千个** AI agent，在约 **32 分钟**内，分析了小鼠全脑 CRISPR atlas——一份覆盖数百万脑细胞的现有实验数据。它们产出一份公开的「推理图谱」（reasoning atlas），把基因扰动、细胞反应、相关文献和可能机制连在一起，并提出若干可检验的假说。
 
