@@ -8,10 +8,6 @@
 
 2026 年 10 月 21 日，OpenAI 与 PerturbAI、Scripps Research 合作发布一项实验：用由 GPT‑Rosalind 驱动的**数千个** AI agent，在约 **32 分钟**内，分析了小鼠全脑 CRISPR atlas——一份覆盖数百万脑细胞的现有实验数据。它们产出一份公开的「推理图谱」（reasoning atlas），把基因扰动、细胞反应、相关文献和可能机制连在一起，并提出若干可检验的假说。
 
-![PerturbAI 全脑 CRISPR 图谱可视化](./assets/2026-10-22-openai-gpt-rosalind/perturbai-news.png)
-
-*图：PerturbAI 新闻稿中的全脑基因组图谱可视化（细胞/扰动聚类示意）。来源：[PerturbAI 新闻稿](https://perturb.ai/news/perturbai-launches-ai-reasoning-agents)*
-
 对普通人来说，这件事的价值不在于「你也能在家敲 CRISPR」，而在于：**科研里最耗人的那一段——把海量数据翻成可追的线索——开始可以被规模化加速**。医学与健康受益的路径，往往是间接的：假说提得更快、值得做的实验排得更清，真正进医院的进展仍靠后续验证。
 
 ---
