@@ -1,6 +1,14 @@
 # OpenAI 用数千个 AI agent，约 32 分钟扫完小鼠全脑 CRISPR 图谱：这对普通人意味着什么？
 
+![OpenAI 官方配图：Scaling Biomedical Discovery](./assets/2026-10-22-openai-gpt-rosalind/openai-hero.png)
+
+*图：OpenAI 官方博文配图（Scaling Biomedical Discovery）。来源：[OpenAI](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)*
+
 2026 年 10 月 21 日，OpenAI 与 PerturbAI、Scripps Research 合作发布一项实验：用由 GPT‑Rosalind 驱动的**数千个** AI agent，在约 **32 分钟**内，分析了小鼠全脑 CRISPR atlas——一份覆盖数百万脑细胞的现有实验数据。它们产出一份公开的「推理图谱」（reasoning atlas），把基因扰动、细胞反应、相关文献和可能机制连在一起，并提出若干可检验的假说。
+
+![PerturbAI 全脑 CRISPR 图谱可视化](./assets/2026-10-22-openai-gpt-rosalind/perturbai-news.png)
+
+*图：PerturbAI 新闻稿中的全脑基因组图谱可视化（细胞/扰动聚类示意）。来源：[PerturbAI 新闻稿](https://perturb.ai/news/perturbai-launches-ai-reasoning-agents)*
 
 对普通人来说，这件事的价值不在于「你也能在家敲 CRISPR」，而在于：**科研里最耗人的那一段——把海量数据翻成可追的线索——开始可以被规模化加速**。医学与健康受益的路径，往往是间接的：假说提得更快、值得做的实验排得更清，真正进医院的进展仍靠后续验证。
 
@@ -51,6 +59,18 @@
 这件事值得关注，是因为复杂生物数据第一次以这种并行推理的方式，被较快地整理成可公开探索的图谱，并提出可检验假说。它**没有**宣称替代湿实验，也**没有**把终点画成「普通人直接用 AI 改基因」。
 
 更稳妥的期待是：以后类似 atlas 会更多，推理图会更常作为研究入口出现；真正改写医学的，仍是那些被假说点名、又被实验坐实的环节。AI 把前半段加速了，后半段还在人的手里——这本身就是好消息：加速的是发现节奏，不是把责任甩给模型。
+
+---
+
+## 相关机构
+
+这次工作由三方合作推进，官网与新闻入口如下（标识来自各自官网/新闻页，便于核对出处）：
+
+- **OpenAI**：[官方博文](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)（文首配图即其公开宣传图）
+- **PerturbAI**：<img src="./assets/2026-10-22-openai-gpt-rosalind/perturbai-logo.png" alt="PerturbAI" width="180" /> — [新闻稿](https://perturb.ai/news/perturbai-launches-ai-reasoning-agents) · [官网](https://perturb.ai/)
+- **Scripps Research**：<img src="./assets/2026-10-22-openai-gpt-rosalind/scripps-logo.jpg" alt="Scripps Research" width="180" /> — [官网](https://www.scripps.edu/)
+
+预印本：[bioRxiv — Distributed AI agents enable comprehensive discovery of biological insights at scale](https://www.biorxiv.org/content/10.64898/2026.10.15.759436v1)
 
 ---
 
