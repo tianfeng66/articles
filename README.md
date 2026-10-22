@@ -1,16 +1,10 @@
-# 田丰的文章
+# AI 产品评测
 
-这个仓库用来存放公开发布的 Markdown 文章。
+最新文章直接点开读。每发一篇，这里同步更新。
 
-## 目录
+## 文章
 
-- `articles/`：正式文章（文件名建议用 `YYYY-MM-DD-标题简写.md`）
-- `articles/README.md`：文章索引
-
-## 怎么加新文章
-
-1. 在 `articles/` 下新增一篇 Markdown
-2. 更新 `articles/README.md` 索引
-3. 通过 Pull Request 合并到 `main`
-
-作者：[tianfeng66](https://github.com/tianfeng66)
+| 日期 | 标题 |
+| --- | --- |
+| 2026-10-22 | [可灵 Kling 4.0 评测：30 秒长镜头、10 关键帧，短剧该不该立刻换引擎？](articles/2026-10-22-kling-40-review.md) |
+| 2026-10-21 | [文章助手 · GitHub 发布链路试跑](articles/2026-10-21-hello-articles.md) |
