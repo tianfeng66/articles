@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-23 | [1Password for Agents：让 agent 代你登录，但不让它看见密码](articles/2026-10-23-1password-for-agents.md) |
 | 2026-10-23 | [Canva 自研图像模型 Craft 上线：先规划版式再出图，不是又一张「死图」生成器](articles/2026-10-23-canva-craft.md) |
 | 2026-10-23 | [你在 Cursor / ChatGPT 装的 Skill，要进公共标准了：对我们有什么用，对 AI 生态意味着什么](articles/2026-10-23-aaif-agent-skills.md) |
 | 2026-10-22 | [Arena 神秘模型 Kibitz，社群押月之暗面 Kimi K3.1：这是预发布信号，不是官宣](articles/2026-10-22-arena-kibitz-kimi-k31.md) |
