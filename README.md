@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-24 | [你刷到的 Kibitz，今天有真名了：Kimi K3.1 Pro](articles/2026-10-24-kimi-k31-pro.md) |
 | 2026-10-24 | [Block Dessa：只用语音训练、能边听边笑——语音助手还别扭吗？](articles/2026-10-24-block-dessa.md) |
 | 2026-10-24 | [美国大行限制第三方 AI agent 登网银：Muse 能动你的银行卡吗？](articles/2026-10-24-banks-limit-ai-agents.md) |
 | 2026-10-24 | [OpenAI 前沿训练全面断网：用「假互联网」练浏览，红队还挖出 CPU 缓存侧信道](articles/2026-10-24-openai-training-airgap.md) |
