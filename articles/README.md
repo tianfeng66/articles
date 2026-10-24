@@ -12,4 +12,3 @@
 | 2026-10-24 | OpenAI 前沿训练全面断网：用「假互联网」练浏览，红队还挖出 CPU 缓存侧信道 | [2026-10-24-openai-training-airgap.md](./2026-10-24-openai-training-airgap.md) |
 | 2026-10-24 | 美国大行限制第三方 AI agent 登网银：Muse 能动你的银行卡吗？ | [2026-10-24-banks-limit-ai-agents.md](./2026-10-24-banks-limit-ai-agents.md) |
 | 2026-10-24 | Block Dessa：只用语音训练、能边听边笑——语音助手还别扭吗？ | [2026-10-24-block-dessa.md](./2026-10-24-block-dessa.md) |
-| 2026-10-24 | 月之暗面官宣 Kimi K3.1 Pro：约 3T 开权重、1M 上下文——Arena 暗测方向坐实了 | [2026-10-24-kimi-k31-pro.md](./2026-10-24-kimi-k31-pro.md) |
