@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-25 | [你的 Chroma Cloud 要关了：Replit 收了向量库顶流，开源还在](articles/2026-10-25-replit-chroma.md) |
 | 2026-10-24 | [你刷到的 Kibitz，今天有真名了：Kimi K3.1 Pro](articles/2026-10-24-kimi-k31-pro.md) |
 | 2026-10-24 | [Block Dessa：只用语音训练、能边听边笑——语音助手还别扭吗？](articles/2026-10-24-block-dessa.md) |
 | 2026-10-24 | [美国大行限制第三方 AI agent 登网银：Muse 能动你的银行卡吗？](articles/2026-10-24-banks-limit-ai-agents.md) |
