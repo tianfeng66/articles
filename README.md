@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-25 | [Agent 写落地页一眼假？Hallmark：48 套主题 + 三道门禁，专治 AI 味](articles/2026-10-25-nutlope-hallmark.md) |
 | 2026-10-25 | [公务员电脑明天开不了 ChatGPT 了：瑞典办公厅只留 Copilot](articles/2026-10-25-sweden-chatgpt-block.md) |
 | 2026-10-25 | [你的 Chroma Cloud 要关了：Replit 收了向量库顶流，开源还在](articles/2026-10-25-replit-chroma.md) |
 | 2026-10-24 | [你刷到的 Kibitz，今天有真名了：Kimi K3.1 Pro](articles/2026-10-24-kimi-k31-pro.md) |
