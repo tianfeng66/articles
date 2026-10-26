@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-25 | [Reddit 开源区一刀切：用 AI / 给 AI / AI 写的，全不欢迎](articles/2026-10-25-reddit-opensource-ai-ban.md) |
 | 2026-10-25 | [Agent 写落地页一眼假？Hallmark：48 套主题 + 三道门禁，专治 AI 味](articles/2026-10-25-nutlope-hallmark.md) |
 | 2026-10-25 | [公务员电脑明天开不了 ChatGPT 了：瑞典办公厅只留 Copilot](articles/2026-10-25-sweden-chatgpt-block.md) |
 | 2026-10-25 | [你的 Chroma Cloud 要关了：Replit 收了向量库顶流，开源还在](articles/2026-10-25-replit-chroma.md) |
