@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-27 | [无人挖机真在工地干活了：Bedrock 约 6 亿美元 C 轮、估值约 41 亿](articles/2026-10-27-bedrock-robotics-series-c.md) |
 | 2026-10-27 | [点球衣就配整套：Fanatics × OpenAI Shop the Look 上了 NFL/NBA/MLB/NHL 店，互动约 +10%](articles/2026-10-27-fanatics-openai-shop-the-look.md) |
 | 2026-10-27 | [OpenAI 甩出三项硬猜想主张：Kakeya / 反证 ETH / Yang–Mills，专家 shepherd 正在验货](articles/2026-10-27-openai-scientific-claims-shepherd.md) |
 | 2026-10-26 | [Downloads 里一份 AGENTS.md：Codex 九成会装马，Claude Code 约一半会漏令牌](articles/2026-10-26-agents-md-downloads-hijack.md) |
