@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-27 | [OpenAI 甩出三项硬猜想主张：Kakeya / 反证 ETH / Yang–Mills，专家 shepherd 正在验货](articles/2026-10-27-openai-scientific-claims-shepherd.md) |
 | 2026-10-26 | [Downloads 里一份 AGENTS.md：Codex 九成会装马，Claude Code 约一半会漏令牌](articles/2026-10-26-agents-md-downloads-hijack.md) |
 | 2026-10-26 | [德勤 16.6 万澳元高校合并报告翻车：AI 幻觉引用，附录差出 2.6 亿](articles/2026-10-26-deloitte-wa-university-ai.md) |
 | 2026-10-25 | [Reddit 开源区一刀切：用 AI / 给 AI / AI 写的，全不欢迎](articles/2026-10-25-reddit-opensource-ai-ban.md) |
