@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-28 | [走进可改可听可对话的实时世界：DeepMind Genie 4 上线研究预览](articles/2026-10-28-deepmind-genie-4.md) |
 | 2026-10-27 | [无人挖机真在工地干活了：Bedrock 约 6 亿美元 C 轮、估值约 41 亿](articles/2026-10-27-bedrock-robotics-series-c.md) |
 | 2026-10-27 | [点球衣就配整套：Fanatics × OpenAI Shop the Look 上了 NFL/NBA/MLB/NHL 店，互动约 +10%](articles/2026-10-27-fanatics-openai-shop-the-look.md) |
 | 2026-10-27 | [OpenAI 甩出三项硬猜想主张：Kakeya / 反证 ETH / Yang–Mills，专家 shepherd 正在验货](articles/2026-10-27-openai-scientific-claims-shepherd.md) |
