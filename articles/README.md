@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-10-29 | Google 自称最强的模型，先不进你的 API：Gemini 4 Carbon 只给网络安全防守方 | [2026-10-29-gemini-4-carbon.md](./2026-10-29-gemini-4-carbon.md) |
 | 2026-10-28 | 你还在做决定吗？专家用 Claude Code，86% 跟着硬币指定的偏好走了 | [2026-10-28-anthropic-agents-judgment-calls.md](./2026-10-28-anthropic-agents-judgment-calls.md) |
 | 2026-10-28 | 你天天用的 Pages 幻灯片表格，Apple 让外部 AI 也能动手改了 | [2026-10-28-apple-creator-studio-ai.md](./2026-10-28-apple-creator-studio-ai.md) |
 | 2026-10-28 | 走进可改可听可对话的实时世界：DeepMind Genie 4 上线研究预览 | [2026-10-28-deepmind-genie-4.md](./2026-10-28-deepmind-genie-4.md) |
