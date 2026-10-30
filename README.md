@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-30 | [不用下载换软件：Gemini 聊天里直接预览、高亮再改 PDF 和 Docs](articles/2026-10-30-gemini-edit-files.md) |
 | 2026-10-30 | [一句话跨页改 PPT，元素还能手改：Canva Brush 更像「真的在改设计」](articles/2026-10-30-canva-brush.md) |
 | 2026-10-29 | [你的 Dot 能回短信了：个人 Agent 第一次装进手机短信框](articles/2026-10-29-chatgpt-dot-texting.md) |
 | 2026-10-29 | [Google 自称最强的模型，先不进你的 API：Gemini 4 Carbon 只给网络安全防守方](articles/2026-10-29-gemini-4-carbon.md) |
