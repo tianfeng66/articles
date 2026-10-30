@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-10-30 | 一句话跨页改 PPT，元素还能手改：Canva Brush 更像「真的在改设计」 | [2026-10-30-canva-brush.md](./2026-10-30-canva-brush.md) |
 | 2026-10-29 | 你的 Dot 能回短信了：个人 Agent 第一次装进手机短信框 | [2026-10-29-chatgpt-dot-texting.md](./2026-10-29-chatgpt-dot-texting.md) |
 | 2026-10-29 | Google 自称最强的模型，先不进你的 API：Gemini 4 Carbon 只给网络安全防守方 | [2026-10-29-gemini-4-carbon.md](./2026-10-29-gemini-4-carbon.md) |
 | 2026-10-28 | 你还在做决定吗？专家用 Claude Code，86% 跟着硬币指定的偏好走了 | [2026-10-28-anthropic-agents-judgment-calls.md](./2026-10-28-anthropic-agents-judgment-calls.md) |
