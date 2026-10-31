@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-10-31 | [robots.txt 写一次，OpenAI / Google / 微软 / Anthropic 一起认：别拿我内容训模型](articles/2026-10-31-robots-txt-ai-training-preferences.md) |
 | 2026-10-30 | [Cursor 市集假 Claude Code 2.1.313：往机器塞 svc-telemetry SSH 后门，先查你有没有装](articles/2026-10-30-cursor-claude-code-extension-malware.md) |
 | 2026-10-30 | [不用下载换软件：Gemini 聊天里直接预览、高亮再改 PDF 和 Docs](articles/2026-10-30-gemini-edit-files.md) |
 | 2026-10-30 | [一句话跨页改 PPT，元素还能手改：Canva Brush 更像「真的在改设计」](articles/2026-10-30-canva-brush.md) |
