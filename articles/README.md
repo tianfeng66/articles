@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-10-31 | 关了 Improve the model 也不算数：个人号 Daybreak Blue 会话仍可能训模型 | [2026-10-31-openai-daybreak-blue-trusted-access.md](./2026-10-31-openai-daybreak-blue-trusted-access.md) |
 | 2026-10-31 | 11 月 4 日就能测：Apple 智能进中国大陆，接千问，但不含 Siri AI | [2026-10-31-apple-intelligence-china.md](./2026-10-31-apple-intelligence-china.md) |
 | 2026-10-31 | robots.txt 写一次，OpenAI / Google / 微软 / Anthropic 一起认：别拿我内容训模型 | [2026-10-31-robots-txt-ai-training-preferences.md](./2026-10-31-robots-txt-ai-training-preferences.md) |
 | 2026-10-30 | Cursor 市集假 Claude Code 2.1.313：往机器塞 svc-telemetry SSH 后门，先查你有没有装 | [2026-10-30-cursor-claude-code-extension-malware.md](./2026-10-30-cursor-claude-code-extension-malware.md) |
