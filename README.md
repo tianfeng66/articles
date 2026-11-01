@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-01 | [12 月起 ChatGPT 与 Codex 抢同一份 token 额度：Plus/Pro/Business，Instant 不算](articles/2026-11-01-chatgpt-codex-shared-usage-limits.md) |
 | 2026-11-01 | [沙箱看起来牢：一个 ChatGPT 分享链接就能接管你的账号（10/26 已修）](articles/2026-11-01-chatgpt-share-sandbox-escape.md) |
 | 2026-10-31 | [关了 Improve the model 也不算数：个人号 Daybreak Blue 会话仍可能训模型](articles/2026-10-31-openai-daybreak-blue-trusted-access.md) |
 | 2026-10-31 | [11 月 4 日就能测：Apple 智能进中国大陆，接千问，但不含 Siri AI](articles/2026-10-31-apple-intelligence-china.md) |
