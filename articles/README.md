@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-01 | 沙箱看起来牢：一个 ChatGPT 分享链接就能接管你的账号（10/26 已修） | [2026-11-01-chatgpt-share-sandbox-escape.md](./2026-11-01-chatgpt-share-sandbox-escape.md) |
 | 2026-10-31 | 关了 Improve the model 也不算数：个人号 Daybreak Blue 会话仍可能训模型 | [2026-10-31-openai-daybreak-blue-trusted-access.md](./2026-10-31-openai-daybreak-blue-trusted-access.md) |
 | 2026-10-31 | 11 月 4 日就能测：Apple 智能进中国大陆，接千问，但不含 Siri AI | [2026-10-31-apple-intelligence-china.md](./2026-10-31-apple-intelligence-china.md) |
 | 2026-10-31 | robots.txt 写一次，OpenAI / Google / 微软 / Anthropic 一起认：别拿我内容训模型 | [2026-10-31-robots-txt-ai-training-preferences.md](./2026-10-31-robots-txt-ai-training-preferences.md) |
