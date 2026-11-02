@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-02 | AI 代理拿到「公司信用卡」：寻汇 Sunrate Agentic Card，框里代付已过 Mastercard Agent Pay | [2026-11-02-sunrate-agentic-card.md](./2026-11-02-sunrate-agentic-card.md) |
 | 2026-11-02 | 最好模型也只有约 12%：SemiAnalysis GDPx 把金融法律几乎打到全零 | [2026-11-02-semianalysis-gdpx.md](./2026-11-02-semianalysis-gdpx.md) |
 | 2026-11-02 | 一次集成上 Gemini 和 Search：Google Connected Apps Platform 预览开了 | [2026-11-02-google-connected-apps-platform.md](./2026-11-02-google-connected-apps-platform.md) |
 | 2026-11-01 | 今天 0 点起：DeepSeek Search / Fetch 按次收费，$0.75 / 千次成功调用 | [2026-11-01-deepseek-search-fetch-billing.md](./2026-11-01-deepseek-search-fetch-billing.md) |
