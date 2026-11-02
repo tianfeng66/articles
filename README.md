@@ -6,6 +6,8 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-02 | [一次集成上 Gemini 和 Search：Google Connected Apps Platform 预览开了](articles/2026-11-02-google-connected-apps-platform.md) |
+| 2026-11-01 | [今天 0 点起：DeepSeek Search / Fetch 按次收费，$0.75 / 千次成功调用](articles/2026-11-01-deepseek-search-fetch-billing.md) |
 | 2026-11-01 | [12 月起 ChatGPT 与 Codex 抢同一份 token 额度：Plus/Pro/Business，Instant 不算](articles/2026-11-01-chatgpt-codex-shared-usage-limits.md) |
 | 2026-11-01 | [沙箱看起来牢：一个 ChatGPT 分享链接就能接管你的账号（10/26 已修）](articles/2026-11-01-chatgpt-share-sandbox-escape.md) |
 | 2026-10-31 | [关了 Improve the model 也不算数：个人号 Daybreak Blue 会话仍可能训模型](articles/2026-10-31-openai-daybreak-blue-trusted-access.md) |
