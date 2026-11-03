@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-02 | [从入园到防汛：OpenAI LifeVal 把「好不好用」拉回过日子，Astra 均分约 80.6%](articles/2026-11-02-openai-lifeval.md) |
 | 2026-11-02 | [AI 代理拿到「公司信用卡」：寻汇 Sunrate Agentic Card，框里代付已过 Mastercard Agent Pay](articles/2026-11-02-sunrate-agentic-card.md) |
 | 2026-11-02 | [最好模型也只有约 12%：SemiAnalysis GDPx 把金融法律几乎打到全零](articles/2026-11-02-semianalysis-gdpx.md) |
 | 2026-11-02 | [一次集成上 Gemini 和 Search：Google Connected Apps Platform 预览开了](articles/2026-11-02-google-connected-apps-platform.md) |
