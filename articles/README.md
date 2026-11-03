@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-03 | 会还没散活先干完：Tana 把本机 Claude Code / ChatGPT 带进 Zoom·Meet·Teams，无 bot 入会 | [2026-11-03-tana-bring-your-own-agent.md](./2026-11-03-tana-bring-your-own-agent.md) |
 | 2026-11-02 | 打客服时对面是谁：Salesforce 签协议买 Cresta，复杂通话语音 agent 并进 Service Cloud | [2026-11-02-salesforce-cresta.md](./2026-11-02-salesforce-cresta.md) |
 | 2026-11-02 | 从入园到防汛：OpenAI LifeVal 把「好不好用」拉回过日子，Astra 均分约 80.6% | [2026-11-02-openai-lifeval.md](./2026-11-02-openai-lifeval.md) |
 | 2026-11-02 | AI 代理拿到「公司信用卡」：寻汇 Sunrate Agentic Card，框里代付已过 Mastercard Agent Pay | [2026-11-02-sunrate-agentic-card.md](./2026-11-02-sunrate-agentic-card.md) |
