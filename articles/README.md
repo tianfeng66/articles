@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-04 | 凌晨开测：国区 Apple 智能 Day-1，系统位够用，别刷进主力机 | [2026-11-04-apple-intelligence-china-day1.md](./2026-11-04-apple-intelligence-china-day1.md) |
 | 2026-11-04 | 正式版来了：腾讯混元 Hy4 首次视觉+电脑操作，CLI+GUI 能碰 Blender·CAD，权重近期开源 | [2026-11-04-tencent-hunyuan-hy4.md](./2026-11-04-tencent-hunyuan-hy4.md) |
 | 2026-11-03 | 默认不再是 Claude：Revolut 约 2000 工程师切自托管 GLM，自称账单砍到约十分之一 | [2026-11-03-revolut-glm-self-hosted.md](./2026-11-03-revolut-glm-self-hosted.md) |
 | 2026-11-03 | 会还没散活先干完：Tana 把本机 Claude Code / ChatGPT 带进 Zoom·Meet·Teams，无 bot 入会 | [2026-11-03-tana-bring-your-own-agent.md](./2026-11-03-tana-bring-your-own-agent.md) |
