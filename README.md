@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-04 | [正式版来了：腾讯混元 Hy4 首次视觉+电脑操作，CLI+GUI 能碰 Blender·CAD，权重近期开源](articles/2026-11-04-tencent-hunyuan-hy4.md) |
 | 2026-11-03 | [默认不再是 Claude：Revolut 约 2000 工程师切自托管 GLM，自称账单砍到约十分之一](articles/2026-11-03-revolut-glm-self-hosted.md) |
 | 2026-11-03 | [会还没散活先干完：Tana 把本机 Claude Code / ChatGPT 带进 Zoom·Meet·Teams，无 bot 入会](articles/2026-11-03-tana-bring-your-own-agent.md) |
 | 2026-11-02 | [打客服时对面是谁：Salesforce 签协议买 Cresta，复杂通话语音 agent 并进 Service Cloud](articles/2026-11-02-salesforce-cresta.md) |
