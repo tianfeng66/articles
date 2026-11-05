@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-04 | [纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解](articles/2026-11-04-anthropic-vault-particles-claude.md) |
 | 2026-11-04 | [工程日限额 $300 砍到 $200：Apple 内部 AI 用量也开始控账单，非工程或再砍到约 $25](articles/2026-11-04-apple-internal-ai-budget-cuts.md) |
 | 2026-11-04 | [约快一半还能出 GIF：OpenAI Images 2.6 进 ChatGPT·Codex·API，Flare 求快 Sunburst 求细](articles/2026-11-04-openai-images-2-6.md) |
 | 2026-11-04 | [少一千条通往 root 的路：OpenAI 管线一次跑出 948 个 Linux 本地提权与候选补丁，API 约 121 万美元](articles/2026-11-04-openai-thousand-fewer-paths-to-root.md) |
