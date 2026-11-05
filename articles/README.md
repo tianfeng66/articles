@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-04 | 约快一半还能出 GIF：OpenAI Images 2.6 进 ChatGPT·Codex·API，Flare 求快 Sunburst 求细 | [2026-11-04-openai-images-2-6.md](./2026-11-04-openai-images-2-6.md) |
 | 2026-11-04 | 少一千条通往 root 的路：OpenAI 管线一次跑出 948 个 Linux 本地提权与候选补丁，API 约 121 万美元 | [2026-11-04-openai-thousand-fewer-paths-to-root.md](./2026-11-04-openai-thousand-fewer-paths-to-root.md) |
 | 2026-11-04 | 默认全关：K-12 的 Gemini·Search 要管理员打开；作业改教练带你想，全关 AI 也可能没搜索 | [2026-11-04-google-education-ai-defaults-guided-learning.md](./2026-11-04-google-education-ai-defaults-guided-learning.md) |
 | 2026-11-04 | 凌晨开测：国区 Apple 智能 Day-1，系统位够用，别刷进主力机 | [2026-11-04-apple-intelligence-china-day1.md](./2026-11-04-apple-intelligence-china-day1.md) |
