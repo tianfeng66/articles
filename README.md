@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-04 | [少一千条通往 root 的路：OpenAI 管线一次跑出 948 个 Linux 本地提权与候选补丁，API 约 121 万美元](articles/2026-11-04-openai-thousand-fewer-paths-to-root.md) |
 | 2026-11-04 | [默认全关：K-12 的 Gemini·Search 要管理员打开；作业改教练带你想，全关 AI 也可能没搜索](articles/2026-11-04-google-education-ai-defaults-guided-learning.md) |
 | 2026-11-04 | [凌晨开测：国区 Apple 智能 Day-1，系统位够用，别刷进主力机](articles/2026-11-04-apple-intelligence-china-day1.md) |
 | 2026-11-04 | [正式版来了：腾讯混元 Hy4 首次视觉+电脑操作，CLI+GUI 能碰 Blender·CAD，权重近期开源](articles/2026-11-04-tencent-hunyuan-hy4.md) |
