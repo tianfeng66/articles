@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-05 | [约 1.9×：METR 说 Anthropic 研发用 AI 把两年进度挤进一年，关键证据却被打码](articles/2026-11-05-metr-anthropic-aeci-rd-acceleration.md) |
 | 2026-11-04 | [纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解](articles/2026-11-04-anthropic-vault-particles-claude.md) |
 | 2026-11-04 | [工程日限额 $300 砍到 $200：Apple 内部 AI 用量也开始控账单，非工程或再砍到约 $25](articles/2026-11-04-apple-internal-ai-budget-cuts.md) |
 | 2026-11-04 | [约快一半还能出 GIF：OpenAI Images 2.6 进 ChatGPT·Codex·API，Flare 求快 Sunburst 求细](articles/2026-11-04-openai-images-2-6.md) |
