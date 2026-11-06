@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-06 | AI 是怎么画画的？一篇讲给小白的生图模型原理 | [2026-11-06-how-ai-draws.md](./2026-11-06-how-ai-draws.md) |
 | 2026-11-05 | 最多读两年流水，不能动钱：Claude 接上银行账户，解绑却不等于删记录 | [2026-11-05-claude-personal-finance.md](./2026-11-05-claude-personal-finance.md) |
 | 2026-11-05 | 约 1.9×：METR 说 Anthropic 研发用 AI 把两年进度挤进一年，关键证据却被打码 | [2026-11-05-metr-anthropic-aeci-rd-acceleration.md](./2026-11-05-metr-anthropic-aeci-rd-acceleration.md) |
 | 2026-11-04 | 纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解 | [2026-11-04-anthropic-vault-particles-claude.md](./2026-11-04-anthropic-vault-particles-claude.md) |
