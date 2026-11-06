@@ -6,11 +6,11 @@
 
 聊天框里它能写脚本、能开浏览器。可一碰到 App Store 里的真 App、真机号码、iMessage，它就停了——**没有一部真机，很多原生动作根本做不完。**
 
-[Glasshand](https://glasshand.com) 想卖的，正是这件事：按月把数据中心里的真 iPhone 或 Mac 租给你的 agent。官网口号写得很直：Give your agent a real iPhone or Mac；接上 Claude Code、Codex、Cursor 或其他 agent，他们「bring the device and the fingers」。
+[Glasshand](https://glasshand.com) 想卖的，正是这件事：按月把数据中心里的真 iPhone 或 Mac 租给你的 agent。官网口号写得很直：Give your agent a real iPhone or Mac。通过 API 接上 Claude Code、Codex、Cursor 或其他 agent，设备和手指由 Glasshand 来提供。
 
 运营方是 Delaware 公司 Codapt Inc.。[服务条款](https://glasshand.com/terms)与[隐私政策](https://glasshand.com/privacy)自 **2026 年 10 月 22 日**起生效。官网已开放个人账户注册与付费租赁——这是官网口径，不是我们租过机的实测。
 
-真正让人在意的，不是又多了一个远程桌面，而是：**agent 第一次被认真当成「要有一部手机」的东西来卖。**
+真正让人在意的，不是又多了一个远程桌面，而是：**agent 被认真当成「要有一部手机」的东西来卖。**
 
 ## 模拟器过不了 App Store，远程浏览器也拿不到短信
 
@@ -43,7 +43,7 @@ Glasshand 不卖更强的模型。它卖的是**专用真机 + 按月租 + agent
 
 美元计价，另加适用税费。按月计费，随时可取消；取消后设备用到当期结束。首页 FAQ 明确：**不能按小时或按天租。** 一个下午的实验，也要付整月。
 
-更具体的机型写在给 agent 读的说明里，[agents.md](https://glasshand.com/agents.md)：目前是 **iPhone SE（第三代）60 美元/月**，以及 **Mac mini M4（16 GB / 256 GB）90 美元/月**。首页只笼统写 iPhone / Mac；写到具体型号，必须以这份说明为准。不是想选就有最新款。
+更具体的机型写在给 agent 读的说明里，[agents.md](https://glasshand.com/agents.md)：目前是 **iPhone SE（第三代）60 美元/月**，以及 **Mac mini M4（16 GB / 256 GB）90 美元/月**。首页 FAQ 已经写到控制的是 iPhone 或 Mac mini；具体到 SE 第三代和 16 GB / 256 GB，仍必须以这份说明为准。不是想选就有最新款。
 
 每台租赁各自一条订阅。续费失败后最多有 **72 小时**挽回窗口；过期未恢复，设备释放并重置。目录**不保证现货**；确认缺货时，订阅取消并全额退初次付款，默认可进 waitlist——通知不等于预留，也不扣费。条款还写：付款确认后 **30 分钟内**完不成初始履约，同样取消并全额退首笔付款。
 
@@ -71,7 +71,7 @@ API 提供屏幕捕获与键盘/鼠标输入。**没有 native shell、文件系
 
 条款要求：只用你有权做的活动。禁止欺诈、冒充、凭据窃取、恶意软件、非法监控、未授权访问、垃圾信息、骚扰或非法利用；不要转售账户，也不要禁用管理和 reset 能力。
 
-Glasshand 订阅**不给你** Apple、App 发行商、网站、agent、支付服务等第三方的许可证。它无法保证第三方会允许你的用法。租到一部真机，不等于抖音、Instagram 或任何 App 允许自动化操作。
+Glasshand 订阅**不给你** Apple、App 发行商、网站、agent、支付服务等第三方的许可证。它无法保证第三方会允许你的用法。租到一部真机，不等于抖音、Instagram 或任何 App 允许自动化操作。[给 agent 的说明](https://glasshand.com/agents.md)里还写了：设备可能显示由 Codapt Inc 管理；在承诺某个 App 操作一定能做之前，得先看实际限制。
 
 批准 agent 权限，和在结账批准订阅，是分开的两步。被授权的 agent 可在权限内行动，不必每次再经 Glasshand 批准；其操作可能改文件、发通讯，或通过你在设备上打开的账户产生消费。撤销拦不住已经完成的动作，也收不回已经到手的信息。
 
