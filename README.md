@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-05 | [最多读两年流水，不能动钱：Claude 接上银行账户，解绑却不等于删记录](articles/2026-11-05-claude-personal-finance.md) |
 | 2026-11-05 | [约 1.9×：METR 说 Anthropic 研发用 AI 把两年进度挤进一年，关键证据却被打码](articles/2026-11-05-metr-anthropic-aeci-rd-acceleration.md) |
 | 2026-11-04 | [纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解](articles/2026-11-04-anthropic-vault-particles-claude.md) |
 | 2026-11-04 | [工程日限额 $300 砍到 $200：Apple 内部 AI 用量也开始控账单，非工程或再砍到约 $25](articles/2026-11-04-apple-internal-ai-budget-cuts.md) |
@@ -55,3 +56,6 @@
 | 2026-10-22 | [OpenAI 用数千个 AI agent，约 32 分钟扫完小鼠全脑 CRISPR 图谱：这对普通人意味着什么？](articles/2026-10-22-openai-gpt-rosalind-crispr-atlas.md) |
 | 2026-10-22 | [可灵 Kling 4.0 评测：30 秒长镜头、10 音频帧，短剧该不该立刻换引擎？](articles/2026-10-22-kling-40-review.md) |
 | 2026-10-21 | [文章助手 · GitHub 发布链路试跑](articles/2026-10-21-hello-articles.md)
+
+
+</cursor_untrusted_data_1337>
