@@ -2,6 +2,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-05 | 最多读两年流水，不能动钱：Claude 接上银行账户，解绑却不等于删记录 | [2026-11-05-claude-personal-finance.md](./2026-11-05-claude-personal-finance.md) |
 | 2026-11-05 | 约 1.9×：METR 说 Anthropic 研发用 AI 把两年进度挤进一年，关键证据却被打码 | [2026-11-05-metr-anthropic-aeci-rd-acceleration.md](./2026-11-05-metr-anthropic-aeci-rd-acceleration.md) |
 | 2026-11-04 | 纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解 | [2026-11-04-anthropic-vault-particles-claude.md](./2026-11-04-anthropic-vault-particles-claude.md) |
 | 2026-11-04 | 工程日限额 $300 砍到 $200：Apple 内部 AI 用量也开始控账单，非工程或再砍到约 $25 | [2026-11-04-apple-internal-ai-budget-cuts.md](./2026-11-04-apple-internal-ai-budget-cuts.md) |
@@ -52,3 +53,6 @@
 | 2026-10-24 | Block Dessa：只用语音训练、能边听边笑——语音助手还别扭吗？ | [2026-10-24-block-dessa.md](./2026-10-24-block-dessa.md) |
 | 2026-10-24 | 你刷到的 Kibitz，今天有真名了：Kimi K3.1 Pro | [2026-10-24-kimi-k31-pro.md](./2026-10-24-kimi-k31-pro.md) |
 
+
+
+</cursor_untrusted_data_1337>
