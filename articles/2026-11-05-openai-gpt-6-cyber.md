@@ -50,7 +50,7 @@ Firefox 的 Brian Grinstead 提到，即使这套代码此前已经被严格审�
 
 这说明「以前查过」不是终点。对维护者，更强的研究工具意味着还会有新发现；有没有人接报告、核证据、合补丁，决定了发现最终能不能变成保护。
 
-同一模型也参与了[948 个 Linux 本地提权与候选补丁的研究](https://github.com/tianfeng66/articles/blob/main/articles/2026-11-04-openai-thousand-fewer-paths-to-root.md)，但那是另一条大规模研究管线。
+同一模型也参与了[948 个 Linux 本地提权](https://github.com/tianfeng66/articles/blob/main/articles/2026-11-04-openai-thousand-fewer-paths-to-root.md)的研究。
 
 ![ExploitGym 48.5%，Firefox 81 个此前未知高危，先只给核准客户](./assets/2026-11-05-openai-gpt-6-cyber/02-stack.png)
 
@@ -90,17 +90,9 @@ Red 目前面向获批的 business 和 enterprise 组织，个人申请通道拿
 
 首批开放会逐步扩大，但「将扩大到所有 Red 客户」是发布计划，不是每家组织今天已经拿到的权限。
 
-## 更新 Firefox 现在就能做，接模型之前先查批准和接管人
+组织侧的访问控制还包括 SSO、MFA 和 API IP allowlisting。Daybreak 默认不等于零数据留存；使用 Zero Data Retention 的 API 客户，通常还要配置 Private Safety Processing。
 
-普通 Firefox 用户不需要等自己用上 Cyber，才能受益。把浏览器更新到 Firefox 159 或更新的版本，是现在就能做的事；别把「许多已修复」误读成所有发现都已上线。
-
-安全团队则要先确认两道批准：组织有没有 Daybreak Red，GPT-6 Cyber 的单独模型批准又有没有。
-
-再看组织要求的 SSO、MFA 和 API IP allowlisting 是否落实。使用 Zero Data Retention 的 API 客户通常还要配 Private Safety Processing，Daybreak 默认不等于零数据留存。
-
-如果手头只是代码审查和补丁工作，也不必先把最强的专用模型当成起点。先弄清团队实际缺的是发现、核验，还是修复吞吐，再对照获批权限，才不容易把接入工具误当成建好了安全流程。
-
-最后，把接管人定下来：谁划授权范围，谁审发现，谁接补丁，谁决定高风险动作能否继续。
+## 真正值得追的不是又多了一种危险技能，而是发现能不能走到修复
 
 GPT-6 Cyber 真正值得追的，不是「AI 又会了一种危险技能」，而是授权研究能不能更快从疑点走到证据，再从证据走到修复。
 
