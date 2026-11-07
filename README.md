@@ -10,6 +10,7 @@
 | 2026-11-06 | [可改、可排程、能钉侧栏：Muse 推出 Spaces，把 App 变成个人工作台，共享仍在探索](articles/2026-11-06-meta-muse-spaces.md) |
 | 2026-11-06 | [不是模拟器：月租 60 / 90 美元，Glasshand 给 Agent 租真 iPhone 和 Mac，抹机不等于副本消失](articles/2026-11-06-glasshand-real-iphones-macs-for-agents.md) |
 | 2026-11-06 | [AI 是怎么画画的？一篇讲给小白的生图模型原理](articles/2026-11-06-how-ai-draws.md) |
+| 2026-11-05 | [先只给核准的 Daybreak Red：GPT-6 Cyber 授权内挖洞验洞，ExploitGym 48.5%，Firefox 验出 81 个此前未知高危](articles/2026-11-05-openai-gpt-6-cyber.md) |
 | 2026-11-05 | [最多读两年流水，不能动钱：Claude 接上银行账户，解绑却不等于删记录](articles/2026-11-05-claude-personal-finance.md) |
 | 2026-11-05 | [约 1.9×：METR 说 Anthropic 研发用 AI 把两年进度挤进一年，关键证据却被打码](articles/2026-11-05-metr-anthropic-aeci-rd-acceleration.md) |
 | 2026-11-04 | [纯化从约 3 天压到约 90 分钟：Claude 帮解出首个原核侧 vault 三维结构，功能仍未解](articles/2026-11-04-anthropic-vault-particles-claude.md) |
