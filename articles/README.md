@@ -1,7 +1,9 @@
 # 文章索引
 
+
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-06 | 413 个记忆文件，只拿到 1 枚徽章：Anthropic 让 Claude 在会话之间「做梦」改错、写 wiki | [2026-11-06-anthropic-components-of-agent-memory.md](./2026-11-06-anthropic-components-of-agent-memory.md) |
 | 2026-11-06 | 第三天写出证明：PSI 用未公开 Anthropic 模型证出 Aaronson-Ambainis 猜想，Lean 过检不等于跑法可复现 | [2026-11-06-psi-aaronson-ambainis.md](./2026-11-06-psi-aaronson-ambainis.md) |
 | 2026-11-06 | 可改、可排程、能钉侧栏：Muse 推出 Spaces，把 App 变成个人工作台，共享仍在探索 | [2026-11-06-meta-muse-spaces.md](./2026-11-06-meta-muse-spaces.md) |
 | 2026-11-06 | 不是模拟器：月租 60 / 90 美元，Glasshand 给 Agent 租真 iPhone 和 Mac，抹机不等于副本消失 | [2026-11-06-glasshand-real-iphones-macs-for-agents.md](./2026-11-06-glasshand-real-iphones-macs-for-agents.md) |
@@ -54,10 +56,3 @@
 | 2026-10-23 | Canva 自研图像模型 Craft 上线：先规划版式再出图，不是又一张「死图」生成器 | [2026-10-23-canva-craft.md](./2026-10-23-canva-craft.md) |
 | 2026-10-23 | 1Password for Agents：让 agent 代你登录，但不让它看见密码 | [2026-10-23-1password-for-agents.md](./2026-10-23-1password-for-agents.md) |
 | 2026-10-24 | OpenAI 前沿训练全面断网：用「假互联网」练浏览，红队还挖出 CPU 缓存侧信道 | [2026-10-24-openai-training-airgap.md](./2026-10-24-openai-training-airgap.md) |
-| 2026-10-24 | 美国大行限制第三方 AI agent 登网银：Muse 能动你的银行卡吗？ | [2026-10-24-banks-limit-ai-agents.md](./2026-10-24-banks-limit-ai-agents.md) |
-| 2026-10-24 | Block Dessa：只用语音训练、能边听边笑——语音助手还别扭吗？ | [2026-10-24-block-dessa.md](./2026-10-24-block-dessa.md) |
-| 2026-10-24 | 你刷到的 Kibitz，今天有真名了：Kimi K3.1 Pro | [2026-10-24-kimi-k31-pro.md](./2026-10-24-kimi-k31-pro.md) |
-
-
-
-</cursor_untrusted_data_1337>
