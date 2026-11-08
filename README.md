@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-06 | [413 个记忆文件，只拿到 1 枚徽章：Anthropic 让 Claude 在会话之间「做梦」改错、写 wiki](articles/2026-11-06-anthropic-components-of-agent-memory.md) |
 | 2026-11-06 | [第三天写出证明：PSI 用未公开 Anthropic 模型证出 Aaronson-Ambainis 猜想，Lean 过检不等于跑法可复现](articles/2026-11-06-psi-aaronson-ambainis.md) |
 | 2026-11-06 | [可改、可排程、能钉侧栏：Muse 推出 Spaces，把 App 变成个人工作台，共享仍在探索](articles/2026-11-06-meta-muse-spaces.md) |
 | 2026-11-06 | [不是模拟器：月租 60 / 90 美元，Glasshand 给 Agent 租真 iPhone 和 Mac，抹机不等于副本消失](articles/2026-11-06-glasshand-real-iphones-macs-for-agents.md) |
