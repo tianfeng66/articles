@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-08 | Dot 能接邮箱登录验证码了：点「一直允许」，演示里的范围不只眼前这个网站 | [2026-11-08-openai-dot-email-signin-codes.md](./2026-11-08-openai-dot-email-signin-codes.md) |
 | 2026-11-07 | 点一次「以后别再问」，密码也会留下：公开仓库 1,122 份配置含秘密，研究者没有试用这些凭证 | [2026-11-07-claude-code-dont-ask-again-secrets.md](./2026-11-07-claude-code-dont-ask-again-secrets.md) |
 | 2026-11-06 | 413 个记忆文件，只拿到 1 枚徽章：Anthropic 让 Claude 在会话之间「做梦」改错、写 wiki | [2026-11-06-anthropic-components-of-agent-memory.md](./2026-11-06-anthropic-components-of-agent-memory.md) |
 | 2026-11-06 | 第三天写出证明：PSI 用未公开 Anthropic 模型证出 Aaronson-Ambainis 猜想，Lean 过检不等于跑法可复现 | [2026-11-06-psi-aaronson-ambainis.md](./2026-11-06-psi-aaronson-ambainis.md) |
