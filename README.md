@@ -8,6 +8,7 @@
 | --- | --- |
 | 2026-11-08 | [立案调查，不是间谍指控坐实：英伟达董事会查黄仁勋是否被外国情报针对](articles/2026-11-08-nvidia-board-jensen-huang-investigation.md) |
 | 2026-11-08 | [Dot 能接邮箱登录验证码了：点「一直允许」，演示里的范围不只眼前这个网站](articles/2026-11-08-openai-dot-email-signin-codes.md) |
+| 2026-11-07 | [起诉不是判决：猫王权利方援引 ELVIS 法案告 Suno 克隆嗓音，Eminem 出版方另告版权](articles/2026-11-07-elvis-eminem-sue-suno.md) |
 | 2026-11-07 | [点一次「以后别再问」，密码也会留下：公开仓库 1,122 份配置含秘密，研究者没有试用这些凭证](articles/2026-11-07-claude-code-dont-ask-again-secrets.md) |
 | 2026-11-06 | [413 个记忆文件，只拿到 1 枚徽章：Anthropic 让 Claude 在会话之间「做梦」改错、写 wiki](articles/2026-11-06-anthropic-components-of-agent-memory.md) |
 | 2026-11-06 | [第三天写出证明：PSI 用未公开 Anthropic 模型证出 Aaronson-Ambainis 猜想，Lean 过检不等于跑法可复现](articles/2026-11-06-psi-aaronson-ambainis.md) |
