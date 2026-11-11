@@ -6,6 +6,9 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-09 | [约千个 agent 花 30 小时形式化费马大定理：Fable 5.2 没有重新发现证明](articles/2026-11-09-claude-fable-5-2.md) |
+| 2026-11-09 | [草图转成概念图：Adobe Firefly Foundry 给迪士尼内部定制模型](articles/2026-11-09-adobe-disney-ai-alliance.md) |
+| 2026-11-08 | [平均满足约七成要求，整题全过只有 26.4%：Co-Design Bench 里 AI 改应用还差整单交付](articles/2026-11-08-co-design-bench.md) |
 | 2026-11-08 | [立案调查，不是间谍指控坐实：英伟达董事会查黄仁勋是否被外国情报针对](articles/2026-11-08-nvidia-board-jensen-huang-investigation.md) |
 | 2026-11-08 | [Dot 能接邮箱登录验证码了：点「一直允许」，演示里的范围不只眼前这个网站](articles/2026-11-08-openai-dot-email-signin-codes.md) |
 | 2026-11-07 | [起诉不是判决：猫王权利方援引 ELVIS 法案告 Suno 克隆嗓音，Eminem 出版方另告版权](articles/2026-11-07-elvis-eminem-sue-suno.md) |
