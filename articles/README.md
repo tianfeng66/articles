@@ -5,6 +5,13 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-12 | 谷歌智能眼镜美韩开预购：395 美元起，翻译和导航听在耳边 | [2026-11-12-google-intelligent-eyewear.md](./2026-11-12-google-intelligent-eyewear.md) |
+| 2026-11-11 | ElevenAI 开放免费早鸟：在 Mac 上听会，整理纪要和待办 | [2026-11-11-elevenai-nyc-summit.md](./2026-11-11-elevenai-nyc-summit.md) |
+| 2026-11-11 | AWS 称上千个智能体写了全部代码：这个本地模拟器怎么验收 | [2026-11-11-aws-emulator.md](./2026-11-11-aws-emulator.md) |
+| 2026-11-11 | DeepL Aure 想让翻译跟上语气变化：初期八种语言不含中文 | [2026-11-11-deepl-aure.md](./2026-11-11-deepl-aure.md) |
+| 2026-11-10 | 约 650 万行 Lean 验证了 libsignal 的机器码，不是整个 Signal App | [2026-11-10-alphaproof-code.md](./2026-11-10-alphaproof-code.md) |
+| 2026-11-10 | ChatGPT 有商家主页了：想问商家，可以另开一场 Agent 对话 | [2026-11-10-chatgpt-businesses-agent.md](./2026-11-10-chatgpt-businesses-agent.md) |
+| 2026-11-09 | 一句话能做 Stories 滤镜：通过审核才会进 Instagram 效果库 | [2026-11-09-instagram-effect-builder.md](./2026-11-09-instagram-effect-builder.md) |
 | 2026-11-09 | 约千个 agent 花 30 小时形式化费马大定理：Fable 5.2 没有重新发现证明 | [2026-11-09-claude-fable-5-2.md](./2026-11-09-claude-fable-5-2.md) |
 | 2026-11-09 | 草图转成概念图：Adobe Firefly Foundry 给迪士尼内部定制模型 | [2026-11-09-adobe-disney-ai-alliance.md](./2026-11-09-adobe-disney-ai-alliance.md) |
 | 2026-11-08 | 平均满足约七成要求，整题全过只有 26.4%：Co-Design Bench 里 AI 改应用还差整单交付 | [2026-11-08-co-design-bench.md](./2026-11-08-co-design-bench.md) |
