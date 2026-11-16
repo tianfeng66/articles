@@ -5,6 +5,8 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-16 | 混元Hy4 flash发布：官方办公盲测成本约Haiku 5.5高档的十八分之一 | [2026-11-16-hunyuan-hy4-flash.md](./2026-11-16-hunyuan-hy4-flash.md) |
+| 2026-11-15 | OpenAI科学博客首篇：Craig与GPT-6 Astra提出标准模型格点候选定义 | [2026-11-15-astra-standard-model-lattice.md](./2026-11-15-astra-standard-model-lattice.md) |
 | 2026-11-14 | Grok Imagine 宣布图和视频创作已在 Grok 可用，独立入口安排未说明 | [2026-11-14-grok-imagine-in-grok.md](./2026-11-14-grok-imagine-in-grok.md) |
 | 2026-11-14 | Cursor 调查更新：历史智能体记录被拷，假 Claude Code 来自市集缓存 | [2026-11-14-cursor-security-incident-update.md](./2026-11-14-cursor-security-incident-update.md) |
 | 2026-11-13 | 美联储金融稳定报告里的问卷：23名联系人中87%提到AI冲击 | [2026-11-13-fed-financial-stability-ai-survey.md](./2026-11-13-fed-financial-stability-ai-survey.md) |
