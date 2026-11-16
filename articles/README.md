@@ -5,6 +5,11 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-14 | Grok Imagine 宣布图和视频创作已在 Grok 可用，独立入口安排未说明 | [2026-11-14-grok-imagine-in-grok.md](./2026-11-14-grok-imagine-in-grok.md) |
+| 2026-11-14 | Cursor 调查更新：历史智能体记录被拷，假 Claude Code 来自市集缓存 | [2026-11-14-cursor-security-incident-update.md](./2026-11-14-cursor-security-incident-update.md) |
+| 2026-11-13 | 美联储金融稳定报告里的问卷：23名联系人中87%提到AI冲击 | [2026-11-13-fed-financial-stability-ai-survey.md](./2026-11-13-fed-financial-stability-ai-survey.md) |
+| 2026-11-13 | ChatGPT Wallet 开始向美国 Pro 开放：智能体代付，现行流程逐笔确认 | [2026-11-13-chatgpt-wallet.md](./2026-11-13-chatgpt-wallet.md) |
+| 2026-11-12 | 黄仁勋辞去英伟达总裁、CEO 和董事：CFO 临时兼任，永久继任还在搜寻 | [2026-11-12-nvidia-ceo-transition.md](./2026-11-12-nvidia-ceo-transition.md) |
 | 2026-11-12 | 谷歌智能眼镜美韩开预购：395 美元起，翻译和导航听在耳边 | [2026-11-12-google-intelligent-eyewear.md](./2026-11-12-google-intelligent-eyewear.md) |
 | 2026-11-11 | ElevenAI 开放免费早鸟：在 Mac 上听会，整理纪要和待办 | [2026-11-11-elevenai-nyc-summit.md](./2026-11-11-elevenai-nyc-summit.md) |
 | 2026-11-11 | AWS 称上千个智能体写了全部代码：这个本地模拟器怎么验收 | [2026-11-11-aws-emulator.md](./2026-11-11-aws-emulator.md) |
