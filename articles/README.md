@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-17 | Fable 越来越强，视频模型还有未来吗？ | [2026-11-17-fable-video-models-future.md](./2026-11-17-fable-video-models-future.md) |
 | 2026-11-16 | OpenAI医疗电脑操作智能体上线：准备病历与授权材料，审批由机构配置 | [2026-11-16-openai-healthcare-computer-use.md](./2026-11-16-openai-healthcare-computer-use.md) |
 | 2026-11-16 | 混元Hy4 flash发布：官方办公盲测成本约Haiku 5.5高档的十八分之一 | [2026-11-16-hunyuan-hy4-flash.md](./2026-11-16-hunyuan-hy4-flash.md) |
 | 2026-11-15 | OpenAI科学博客首篇：Craig与GPT-6 Astra提出标准模型格点候选定义 | [2026-11-15-astra-standard-model-lattice.md](./2026-11-15-astra-standard-model-lattice.md) |
