@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-17 | [GPT-6.2 Astra与Sol发布：旗舰API输入输出降价两成](articles/2026-11-17-gpt-6-2-astra-sol.md) |
 | 2026-11-17 | [谷歌Ask Maps可排多日行程并查预约空位：查预约和代打电话先在美国](articles/2026-11-17-google-ask-maps-travel.md) |
 | 2026-11-17 | [Fable 越来越强，视频模型还有未来吗？](articles/2026-11-17-fable-video-models-future.md) |
 | 2026-11-16 | [OpenAI医疗电脑操作智能体上线：准备病历与授权材料，审批由机构配置](articles/2026-11-16-openai-healthcare-computer-use.md) |
