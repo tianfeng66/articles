@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-18 | [KPMG英国让百余AI代理并行试审：正式批准报表未依赖其发现](articles/2026-11-18-kpmg-uk-project-exponential.md) |
 | 2026-11-17 | [GPT-6.2 Astra与Sol发布：旗舰API输入输出降价两成](articles/2026-11-17-gpt-6-2-astra-sol.md) |
 | 2026-11-17 | [谷歌Ask Maps可排多日行程并查预约空位：查预约和代打电话先在美国](articles/2026-11-17-google-ask-maps-travel.md) |
 | 2026-11-17 | [Fable 越来越强，视频模型还有未来吗？](articles/2026-11-17-fable-video-models-future.md) |
