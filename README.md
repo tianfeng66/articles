@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-19 | [OpenAI研究加速报告：数小时编码任务更能独立完成，推理服务代码仍是短板](articles/2026-11-19-openai-research-acceleration.md) |
 | 2026-11-19 | [Anthropic IPO定价每股83美元：发售约813亿美元，含老股转让](articles/2026-11-19-anthropic-ipo-pricing.md) |
 | 2026-11-18 | [KPMG英国让百余AI代理并行试审：正式批准报表未依赖其发现](articles/2026-11-18-kpmg-uk-project-exponential.md) |
 | 2026-11-17 | [GPT-6.2 Astra与Sol发布：旗舰API输入输出降价两成](articles/2026-11-17-gpt-6-2-astra-sol.md) |
