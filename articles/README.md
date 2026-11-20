@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-20 | Genie 4进入Gemini API：能边走边改世界，视频输出约0.10美元一秒 | [2026-11-20-genie-4-gemini-api.md](./2026-11-20-genie-4-gemini-api.md) |
 | 2026-11-19 | OpenAI研究加速报告：数小时编码任务更能独立完成，推理服务代码仍是短板 | [2026-11-19-openai-research-acceleration.md](./2026-11-19-openai-research-acceleration.md) |
 | 2026-11-19 | Anthropic IPO定价每股83美元：发售约813亿美元，含老股转让 | [2026-11-19-anthropic-ipo-pricing.md](./2026-11-19-anthropic-ipo-pricing.md) |
 | 2026-11-18 | KPMG英国让百余AI代理并行试审：正式批准报表未依赖其发现 | [2026-11-18-kpmg-uk-project-exponential.md](./2026-11-18-kpmg-uk-project-exponential.md) |
