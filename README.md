@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-20 | [Gemini能在Mac后台操作应用了：美国英语先开，用户可选应用并随时停下](articles/2026-11-20-gemini-mac-computer-use.md) |
 | 2026-11-20 | [Genie 4进入Gemini API：能边走边改世界，视频输出约0.10美元一秒](articles/2026-11-20-genie-4-gemini-api.md) |
 | 2026-11-19 | [OpenAI研究加速报告：数小时编码任务更能独立完成，推理服务代码仍是短板](articles/2026-11-19-openai-research-acceleration.md) |
 | 2026-11-19 | [Anthropic IPO定价每股83美元：发售约813亿美元，含老股转让](articles/2026-11-19-anthropic-ipo-pricing.md) |
