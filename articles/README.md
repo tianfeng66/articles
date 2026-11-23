@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-23 | 用预测下一个词的误差设研发上限？这是OpenAI首席科学家的倡议，不是行业已签协议 | [2026-11-23-openai-perplexity-intelligence.md](./2026-11-23-openai-perplexity-intelligence.md) |
 | 2026-11-22 | ChatGPT Space向部分Plus用户放量：能做会更新的页面，分享却要对方也有权限 | [2026-11-22-chatgpt-space-plus.md](./2026-11-22-chatgpt-space-plus.md) |
 | 2026-11-22 | Dots向部分Plus用户放量：不是所有Plus都能立刻用，客服也无法代开 | [2026-11-22-dots-plus-rollout.md](./2026-11-22-dots-plus-rollout.md) |
 | 2026-11-21 | Muse Code上线3D建模：订阅用户能用文字或图片生成带纹理网格 | [2026-11-21-meta-muse-code-3d.md](./2026-11-21-meta-muse-code-3d.md) |
