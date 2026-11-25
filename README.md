@@ -6,6 +6,7 @@
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-11-24 | [Muse进入英国：每次购买都要批准，训练开关却默认打开](articles/2026-11-24-meta-muse-uk.md) |
 | 2026-11-24 | [开完PR去写下一单？Claude Ship有两条路，谁能合并也不一样](articles/2026-11-24-claude-ship.md) |
 | 2026-11-23 | [GLM-5.4进了Coding Plan：循环加深计算，并不把参数量翻倍](articles/2026-11-23-glm-5-4-loop-transformer.md) |
 | 2026-11-23 | [用预测下一个词的误差设研发上限？这是OpenAI首席科学家的倡议，不是行业已签协议](articles/2026-11-23-openai-perplexity-intelligence.md) |
