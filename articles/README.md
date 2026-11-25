@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-25 | 同一句短提示会画出更多样子：Niji 8来了，角色换景要改用edit | [2026-11-25-niji-8.md](./2026-11-25-niji-8.md) |
 | 2026-11-25 | 常用的Claude工件能装成电脑应用了：有独立窗口，完全访问却不是默认打开 | [2026-11-25-claude-artifact-install-app.md](./2026-11-25-claude-artifact-install-app.md) |
 | 2026-11-24 | Muse进入英国：每次购买都要批准，训练开关却默认打开 | [2026-11-24-meta-muse-uk.md](./2026-11-24-meta-muse-uk.md) |
 | 2026-11-24 | 开完PR去写下一单？Claude Ship有两条路，谁能合并也不一样 | [2026-11-24-claude-ship.md](./2026-11-24-claude-ship.md) |
