@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 文件 |
 | --- | --- | --- |
+| 2026-11-27 | 混元 Hy3D 3.6 上线 Token Hub：200 万面是目标上限，先当底稿用 | [2026-11-27-tencent-hunyuan-hy3d-3.6.md](./2026-11-27-tencent-hunyuan-hy3d-3.6.md) |
 | 2026-11-26 | DeepL Aure v2 已上线：相对前代少等一半，中文还不在名单里 | [2026-11-26-deepl-aure-v2.md](./2026-11-26-deepl-aure-v2.md) |
 | 2026-11-26 | FCC部分批准最多100万颗Starmind卫星：这是授权条件，不是轨道算力已经开张 | [2026-11-26-fcc-spacex-starmind.md](./2026-11-26-fcc-spacex-starmind.md) |
 | 2026-11-26 | 食品袋上的小字可以让它读：随行视界进了iOS，但不是全球首发 | [2026-11-26-gemini-live-guided-vision-ios.md](./2026-11-26-gemini-live-guided-vision-ios.md) |
